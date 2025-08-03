@@ -33,5 +33,28 @@
 
 ---
 
-## 📁 Struktur Folder
+## 🔧 Teknologi yang Digunakan
+
+- HTML5 & CSS3
+- JavaScript (DOM, localStorage, AOS)
+- PHP (Native)
+- MySQL Database
+- Bootstrap 5
+- FontAwesome 6
+
+---
+
+## 🎯 Cara Menjalankan
+
+1. Clone repository:
+   ```bash
+   git clone https://github.com/username/flackoglasses.git
+   cd flackoglasses
+Import database dari file database.sql ke phpMyAdmin.
+
+Jalankan di XAMPP / Localhost:
+
+Letakkan folder di htdocs/
+
+Buka di browser: http://localhost/flackoglasses/index.php
 
